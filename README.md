@@ -14,6 +14,6 @@ This model is going to help any banking or financial institutions in following w
 
 6) Workflow:
    1) Data collection & cleaning : Handle Missing Values, Duplicates and outliers
-   2) Train Model with use LogisticRegression
-   3) Evaluate : Accuracy_score,Precision_score,Recall_score,F1_score
+   2) Train Model with use LinearRegression
+      
       
